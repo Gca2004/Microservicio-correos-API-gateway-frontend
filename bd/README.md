@@ -1,3 +1,5 @@
+
+
 para la base de datos se uso mysql - mariaDB desde xammp
 
 adjunto un scrip de la base de datos y las indicaciones para el hash
