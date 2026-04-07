@@ -1,4 +1,4 @@
-LIbrerias usadas:
+LIbrerias usadas para el proyecto:
 
 
 install react-router-dom axios
