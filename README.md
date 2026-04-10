@@ -17,7 +17,9 @@ It is built as a **microservices architecture**: a React frontend talks to a cen
 
 ## Architecture
 
-![Architecture diagram](assets/architecture.svg)
+<p align="center">
+  <img src="assets/architecture-diagram.png" alt="Architecture Diagram" width="800"/>
+</p>
 
 > The API Gateway is the **only service exposed** to the browser. The `api-correos` microservice runs internally and is never accessed directly from the frontend.
 
