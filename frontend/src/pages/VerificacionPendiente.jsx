@@ -46,7 +46,7 @@ export default function VerificacionPendiente() {
   return (
     <div className="auth-fondo">
       <div className="auth-panel-izq">
-        <div className="auth-logo">Jade<br />Platform</div>
+        <div className="auth-logo">GCA<br />Platform</div>
         <div className="auth-deco-linea" />
         <p className="auth-subtitulo">
           Verifica tu correo para activar tu cuenta y comenzar a usar la plataforma.

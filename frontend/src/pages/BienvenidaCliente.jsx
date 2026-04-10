@@ -13,7 +13,7 @@ export default function BienvenidaCliente() {
   return (
     <div className="bienvenida-fondo">
       <nav className="navbar">
-        <span className="navbar-logo">Jade Platform</span>
+        <span className="navbar-logo">GCA Platform</span>
         <div className="navbar-usuario">
           <span className="navbar-nombre">{usuario?.nombres}</span>
           <button className="navbar-btn-salir" onClick={manejarSalir}>

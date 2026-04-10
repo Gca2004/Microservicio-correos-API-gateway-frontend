@@ -32,7 +32,7 @@ const manejarEnvio = async (e) => {
   return (
     <div className="auth-fondo">
       <div className="auth-panel-izq">
-        <div className="auth-logo">Jade<br />Platform</div>
+        <div className="auth-logo">GCA<br />Platform</div>
         <div className="auth-deco-linea" />
         <p className="auth-subtitulo">
           Crea tu cuenta y únete a nuestra plataforma. Te enviaremos un mensaje de bienvenida a tu correo.

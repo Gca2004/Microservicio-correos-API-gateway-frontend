@@ -28,7 +28,7 @@ export default function OlvideClave() {
   return (
     <div className="auth-fondo">
       <div className="auth-panel-izq">
-        <div className="auth-logo">Jade<br />Platform</div>
+        <div className="auth-logo">GCA<br />Platform</div>
         <div className="auth-deco-linea" />
         <p className="auth-subtitulo">
           Restablece tu clave de acceso ingresando tu correo registrado.
